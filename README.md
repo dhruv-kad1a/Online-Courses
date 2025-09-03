@@ -25,11 +25,11 @@ A Power BI dashboard was built to deliver actionable insights in these areas.
     - Course Type
 
 ## ⚙️ **Approach**
-1.** Data Cleaning & Preparation**
+1. ** Data Cleaning & Preparation**
   - Removed duplicates and missing values
   - Standardized categories and sub-categories
   - Extracted and transformed fields for skills, ratings, and views
-2.** Data Analysis & Insights**
+2. ** Data Analysis & Insights**
   - Course Type Distribution across categories
   - Average views by category, sub-category, and language
   - Top skills and most demanding skills word cloud

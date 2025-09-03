@@ -1,5 +1,5 @@
 # 📊 **Online Courses Analysis Dashboard (Power BI)**
-## 📌** Project Overview**
+## 📌 **Project Overview**
 This project focuses on analyzing Online Courses Data for an EdTech startup to uncover insights that can help optimize recorded lecture offerings. Using Power BI, I designed an interactive dashboard that highlights course categories, viewer engagement, skills demand, instructors, and language preferences.
 The insights will guide the startup in identifying growth opportunities, improving course strategy, and enhancing learner engagement.
 
